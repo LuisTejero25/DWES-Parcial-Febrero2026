@@ -12,4 +12,5 @@ Repositorio para el examen parcial de febrero de 2026
 | Apellidos, nombre | Enlace al repositorio |
 | --- | --- |
 | <apellidos y nombre>    | <github.com/miusuario/tarea4.git> |
+| <Tejero Cerda Luis Antonio> | <git@github.com:LuisTejero25/DWES-Practica-UT04.git>
 ----
